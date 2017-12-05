@@ -4,7 +4,7 @@
 
 * Clone and download the repository
 
-* Install packages listed in the requirements.txt file
+* Install packages listed in the **requirements.txt** file through `pip install <package>`
 
 * Run `python app.py` in the terminal, the API will be served at http://127.0.0.1:8080
 
